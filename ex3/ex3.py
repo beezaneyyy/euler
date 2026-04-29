@@ -6,3 +6,5 @@ while n != 1:
             n = n / i
             print(i)
             break
+
+#acha o maior fator primo do número 600851475143 

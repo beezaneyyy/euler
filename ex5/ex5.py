@@ -10,3 +10,5 @@ while True:
         break
     else:
         num += 20
+
+#acha o menor número positivo divisivel de 1 até 20

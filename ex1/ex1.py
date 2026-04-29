@@ -5,3 +5,5 @@ for i in range(1000):
         soma += i
 
 print(soma)
+
+#acha múltiplos de 3 ou 5 até 1000

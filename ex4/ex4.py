@@ -9,3 +9,9 @@ for a in range (999, 99, -1):
             if produto > maior:
                 maior = produto
 print(maior)
+
+"""
+acha o maior palindromo
+feito de um produto entre 2 números
+de 3 digitos
+"""

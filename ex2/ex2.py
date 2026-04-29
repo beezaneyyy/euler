@@ -7,3 +7,5 @@ while a <= 4000000:
         soma += a
     a, b = b, a + b
 print(soma)
+
+#soma os termos pares da sequência de fibonacci
