@@ -33,3 +33,5 @@ for n in range(1, 1001):
     soma += len(palavra)
 
 print(soma)
+
+#Pega a quantidade de letras de cada número de 1 até 1000 e soma
